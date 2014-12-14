@@ -6,7 +6,7 @@ SOURCE=$(pwd)/android
 CCACHE=$(pwd)/ccache
 CONTAINER_HOME=/home/cmbuild
 CONTAINER=cyanogenmod
-REPOSITORY=stucki/cyanogenmod
+REPOSITORY=jaapp/cyanogenmod
 
 # Create shared folders
 mkdir -p $SOURCE
